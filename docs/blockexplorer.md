@@ -114,7 +114,7 @@ limit : int - limit number of unspent outputs to fetch (optional)
 
 Usage:
 ```python
-outs = blockexplorer.get_unspent_outputs('1HS9RLmKvJ7D1ZYgfPExJZQZA1DMU3DEVd')
+outs = blockexplorer.get_unspent_outputs('b041ca462dda2d23b6fb4ab9bcce599de5ac5c743630b7553eb715687bee48b6')
 ```
 
 #### `get_latest_block`
